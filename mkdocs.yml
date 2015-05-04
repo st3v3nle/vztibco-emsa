@@ -1,0 +1,7 @@
+site_name: Verizon Tibco Visit
+pages:
+- [index.md, EMS Appliance Performance]
+- [bugs.md, Bugs]
+- [monitor.md, Monitor]
+- [scale.md, Scale]
+theme: readthedocs
